@@ -14,9 +14,9 @@
 
 ## 🎥 Working Demo
 
-<video src="frontend/assets/Claude_Code_Review.mp4" controls width="640">
-  Review of Latest Technology like Claude Code
-</video>
+[![Watch the Claude Code Review](frontend/assets/Claude_code_thumbnail.png)](frontend/assets/Claude_Code_Review.mp4)
+[▶️ Click here to watch the full demo](frontend/assets/Claude_Code_Review.mp4)
+
 ---
 
 ## 🌟 Key Features
