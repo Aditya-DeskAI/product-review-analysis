@@ -14,9 +14,7 @@
 
 ## 🎥 Working Demo
 
-[![Watch the Claude Code Review](frontend/assets/Claude_code_thumbnail.png)](frontend/assets/Claude_Code_Review.mp4)
-[▶️ Click here to watch the full demo](frontend/assets/Claude_Code_Review.mp4)
-
+![Review of Claude Code](frontend/assets/Claude_Code_Review.gif)
 ---
 
 ## 🌟 Key Features
