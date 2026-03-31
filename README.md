@@ -14,7 +14,14 @@
 
 ## 🎥 Working Demo
 
+![Review of Sunscreen](frontend/assets/Dot_&_Key_Sunscreen_Review.gif)
+**Review of a Consumer Product**
+
+![Review of Iphone](frontend/assets/Iphone_17_Pro_Review.gif)
+**Review of a Consumer Electronics**
+
 ![Review of Claude Code](frontend/assets/Claude_Code_Review.gif)
+**Review of Latest Technology**
 ---
 
 ## 🌟 Key Features
