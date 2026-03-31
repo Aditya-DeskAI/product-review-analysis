@@ -14,8 +14,9 @@
 
 ## 🎥 Working Demo
 
-*(Video demonstration coming soon)*
-
+<video src="frontend/assets/Claude_Code_Review.mp4" controls width="640">
+  Review of Latest Technology like Claude Code
+</video>
 ---
 
 ## 🌟 Key Features
@@ -170,23 +171,5 @@ product-review-analysis/
 ├── product_cache.db            # SQLite Database (Auto-generated)
 └── pyproject.toml              # Project metadata and dependencies
 ```
-
----
-
-## 🛡️ The 10-Pillar Framework
-
-To ensure unbiased, comprehensive analysis across varying domains, the Synthesizer LLM evaluates all extracted data against these 10 metrics:
-
-1. Overall Verdict
-2. Purpose & Problem Fit
-3. Effectiveness / Performance
-4. Benefits / Positive Impact
-5. Risks / Downsides / Criticism
-6. Reliability / Consistency
-7. Cost vs Value (ROI)
-8. Scalability / Applicability
-9. Alternatives & Comparisons
-10. Consensus vs. Controversy
-
 ---
 
